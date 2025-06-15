@@ -9,11 +9,15 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@xyflow/react": "^12.7.0",
+    "beautiful-react-diagrams": "^0.5.1",
     "d3-selection": "^3.0.0",
     "d3-zoom": "^3.0.0",
+    "motion": "^12.18.1",
     "next": "15.3.3",
     "react": "^19.0.0",
-    "react-dom": "^19.0.0"
+    "react-dom": "^19.0.0",
+    "reactflow": "^11.11.4"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3",
