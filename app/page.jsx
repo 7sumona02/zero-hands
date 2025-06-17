@@ -4,7 +4,7 @@ import FlowWithCustomNode from './CustomNode'
 
 const page = () => {
   return (
-    <div className='bg-white'>
+    <div className='h-full w-screen bg-white '>
       <FlowWithCustomNode />
     </div>
   )
