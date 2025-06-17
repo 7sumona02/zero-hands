@@ -3,7 +3,7 @@ import Hiring from '../Hiring'
 
 const page = () => {
   return (
-    <div>
+    <div className='h-screen overflow-hidden'>
       <Hiring />
     </div>
   )

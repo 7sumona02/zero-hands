@@ -65,7 +65,7 @@ const Hiring = () => {
           </div>
         </div>
         
-        <ScrollArea className="h-[600px] max-w-3xl">
+        <ScrollArea className="h-[612px] max-w-3xl">
           {filteredItems.length > 0 ? (
             filteredItems.map(item => (
               <HiringCard 
