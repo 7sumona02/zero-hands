@@ -3,7 +3,7 @@ import React from 'react'
 
 const HiringCard = ({name, title, date }: {name: string, title: string, date: string}) => {
   return (
-    <div className='flex items-center gap-10 py-3.5'>
+    <div className='flex items-center gap-10 py-2.5'>
         <div className='w-[80px] text-xl font-semibold text-neutral-700'>{name}</div>
         <div><Badge className='bg-[#3D8EFE] text-sm font-semibold'>Hiring</Badge></div>
         <div className='text-neutral-500 font-medium text-xl w-[200px]'>{title}</div>
