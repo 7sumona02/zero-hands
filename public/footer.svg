@@ -1,0 +1,45 @@
+<svg width="780" height="444" viewBox="0 0 780 444" fill="none" xmlns="http://www.w3.org/2000/svg">
+<foreignObject x="73.5378" y="0.408859" width="584.733" height="584.733"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(71.14px);clip-path:url(#bgblur_0_4839_20298_clip_path);height:100%;width:100%"></div></foreignObject><g filter="url(#filter0_f_4839_20298)" data-figma-bg-blur-radius="142.271">
+<circle cx="365.904" cy="292.775" r="150.096" fill="#006BFF"/>
+</g>
+<foreignObject x="0.615845" y="103.153" width="601.639" height="601.639"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(73.19px);clip-path:url(#bgblur_1_4839_20298_clip_path);height:100%;width:100%"></div></foreignObject><g filter="url(#filter1_f_4839_20298)" data-figma-bg-blur-radius="146.384">
+<circle cx="301.435" cy="403.973" r="154.435" fill="#6165FE"/>
+</g>
+<foreignObject x="251.754" y="66.7328" width="527.62" height="527.62"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(64.19px);clip-path:url(#bgblur_2_4839_20298_clip_path);height:100%;width:100%"></div></foreignObject><g filter="url(#filter2_f_4839_20298)" data-figma-bg-blur-radius="128.375">
+<circle cx="515.564" cy="330.543" r="135.435" fill="#FBB2E0"/>
+</g>
+<foreignObject x="36.0856" y="17.9503" width="742.005" height="742.006"><div xmlns="http://www.w3.org/1999/xhtml" style="backdrop-filter:blur(83.44px);clip-path:url(#bgblur_3_4839_20298_clip_path);height:100%;width:100%"></div></foreignObject><g filter="url(#filter3_i_4839_20298)" data-figma-bg-blur-radius="166.887">
+<circle cx="407.088" cy="388.953" r="204.116" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_f_4839_20298" x="73.5378" y="0.408859" width="584.733" height="584.733" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="71.1354" result="effect1_foregroundBlur_4839_20298"/>
+</filter>
+<clipPath id="bgblur_0_4839_20298_clip_path" transform="translate(-73.5378 -0.408859)"><circle cx="365.904" cy="292.775" r="150.096"/>
+</clipPath><filter id="filter1_f_4839_20298" x="0.615845" y="103.153" width="601.639" height="601.639" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="73.1921" result="effect1_foregroundBlur_4839_20298"/>
+</filter>
+<clipPath id="bgblur_1_4839_20298_clip_path" transform="translate(-0.615845 -103.153)"><circle cx="301.435" cy="403.973" r="154.435"/>
+</clipPath><filter id="filter2_f_4839_20298" x="251.754" y="66.7328" width="527.62" height="527.62" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="64.1873" result="effect1_foregroundBlur_4839_20298"/>
+</filter>
+<clipPath id="bgblur_2_4839_20298_clip_path" transform="translate(-251.754 -66.7328)"><circle cx="515.564" cy="330.543" r="135.435"/>
+</clipPath><filter id="filter3_i_4839_20298" x="36.0856" y="17.9503" width="742.005" height="742.006" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="5.13499"/>
+<feGaussianBlur stdDeviation="2.56749"/>
+<feComposite in2="hardAlpha" operator="arithmetic" k2="-1" k3="1"/>
+<feColorMatrix type="matrix" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="shape" result="effect1_innerShadow_4839_20298"/>
+</filter>
+<clipPath id="bgblur_3_4839_20298_clip_path" transform="translate(-36.0856 -17.9503)"><circle cx="407.088" cy="388.953" r="204.116"/>
+</clipPath></defs>
+</svg>

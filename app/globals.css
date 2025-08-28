@@ -120,3 +120,92 @@
     @apply bg-background text-foreground;
   }
 }
+
+@font-face {
+  font-family: 'OPT';
+  src: url('/fonts/OPTIRomanaRoman-Normal.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 8px 26px;
+  gap: 5px;
+
+  background: linear-gradient(
+      110.72deg,
+      rgba(255, 255, 255, 0.2) -2.91%,
+      rgba(255, 255, 255, 0) 17.95%,
+      rgba(255, 255, 255, 0.2) 34.01%,
+      rgba(255, 255, 255, 0) 50.86%,
+      rgba(255, 255, 255, 0.2) 66.11%,
+      rgba(255, 255, 255, 0) 72.21%
+    ),
+    rgba(201, 209, 231, 0.1);
+
+  box-shadow: 
+    0px 23px 23px rgba(172, 172, 172, 0.09),
+    inset 0px -1px 6px #ffffff;
+
+  backdrop-filter: blur(3px);
+  -webkit-backdrop-filter: blur(3px);
+
+  border-radius: 339px;
+
+  /* Side borders (glass bevel look) */
+  border-left: 1px solid rgba(0, 0, 0, 0.30);
+  border-right: 1px solid rgba(0, 0, 0, 0.30);
+
+  cursor: pointer;
+  border-top: none;
+  border-bottom: none;
+}
+
+/* Button text */
+.button span {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.02em;
+
+  background: radial-gradient(
+    99.76% 484.14% at 0.24% 100%, 
+    #3975C7 0.01%, 
+    #7EB1F6 44.71%, 
+    #77B0FF 57.5%, 
+    #3975C7 100%
+  );
+  
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
+
+.btnspan {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 26px;
+  letter-spacing: -0.02em;
+
+  background: radial-gradient(
+    99.76% 484.14% at 0.24% 100%, 
+    #3975C7 0.01%, 
+    #7EB1F6 44.71%, 
+    #77B0FF 57.5%, 
+    #3975C7 100%
+  );
+  
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}
+
